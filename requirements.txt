@@ -1,0 +1,12 @@
+datasets==2.16.1
+evaluate==0.4.1
+transformers[sentencepiece]==4.35.2
+accelerate==0.26.1
+git-lfs
+pandas
+transformers
+torch
+datasets
+milvus-cli==0.4.2
+protobuf==3.20.0
+pymilvus==2.3.4
